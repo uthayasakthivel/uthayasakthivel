@@ -4,7 +4,7 @@
 
 I'm a passionate frontend developer with 4+ years of experience, specializing in React.js, Next.js, Tailwind CSS, and modern UI development. I love building interactive web applications UI templates that deliver seamless user experiences.
 
-<img align="right" src="[https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif)">
+<img align="right" src={https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif}>
 
 
 📬 Let's Connect!
