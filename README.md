@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there! 👋 I'm Uthayasakthivel
 
-<!--
-**uthayasakthivel/uthayasakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | UI/UX Enthusiast | Digital Creator
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer with 4+ years of experience, specializing in React.js, Next.js, Tailwind CSS, and modern UI development. I love building interactive web applications UI templates that deliver seamless user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Tech Stack & Skills
+
+Frontend: React.js, Next.js, TypeScript, Vite
+
+UI & Styling: Tailwind CSS, Material-UI
+
+State Management: Redux, Redux toolkit, Rtk Query 
+
+Backend & Database: Node.js, Express.js, MongoDB
+
+Tools & Deployment: Git, GitHub, Vercel, Netlify
+
+
+📌 Featured Projects
+
+
+
+📈 GitHub Stats
+
+
+
+
+📬 Let's Connect!
+
+💼 Portfolio: your-portfolio.com
+
+📩 Email: your.email@example.com
+
+🐦 Twitter: @yourhandle
+
+📷 Instagram: @yourhandle
+
+🔗 LinkedIn: your-linkedin
+
+Let's collaborate and build something amazing! 🚀
