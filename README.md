@@ -4,7 +4,7 @@ Hi there! 👋 I'm Uthayasakthivel
 
 I'm a passionate frontend developer with 4+ years of experience, specializing in React.js, Next.js, Tailwind CSS, and modern UI development. I love building interactive web applications UI templates that deliver seamless user experiences.
 
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
+<img align="right" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 
 🔥 Tech Stack & Skills
 
