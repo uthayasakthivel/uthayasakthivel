@@ -1,43 +1,18 @@
-Hi there! 👋 I'm Uthayasakthivel
+## Hi there! 👋 I'm Uthayasakthivel
 
 🚀 Frontend Developer | UI/UX Enthusiast | Digital Creator
 
 I'm a passionate frontend developer with 4+ years of experience, specializing in React.js, Next.js, Tailwind CSS, and modern UI development. I love building interactive web applications UI templates that deliver seamless user experiences.
 
-<img align="right" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
-
-🔥 Tech Stack & Skills
-
-Frontend: React.js, Next.js, TypeScript, Vite
-
-UI & Styling: Tailwind CSS, Material-UI
-
-State Management: Redux, Redux toolkit, Rtk Query 
-
-Backend & Database: Node.js, Express.js, MongoDB
-
-Tools & Deployment: Git, GitHub, Vercel, Netlify
-
-
-📌 Featured Projects
-
-
-
-📈 GitHub Stats
-
-
+<img align="right" src="[https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://i.pinimg.com/originals/bc/1c/5c/bc1c5caa5be55e8a602fd5ec390e8fd0.gif)">
 
 
 📬 Let's Connect!
 
-💼 Portfolio: your-portfolio.com
+💼 Portfolio: my-portfolio.com
 
-📩 Email: your.email@example.com
+📩 **Email**: [uthayasakthivel.dev](mailto:uthayasakthivel.dev@gmail.com)
 
-🐦 Twitter: @yourhandle
-
-📷 Instagram: @yourhandle
-
-🔗 LinkedIn: your-linkedin
+🔗 LinkedIn: [uthayasakthivel](https://www.linkedin.com/in/uthaya-sakthivel-career/)
 
 Let's collaborate and build something amazing! 🚀
