@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif">
+
 # 💫 About Me:
 🔭 I’m currently working as a Frontend Developer<br><br>🤝 I’m looking to collaborate on exciting frontend and full-stack projects<br><br>💡 I’m looking for help with advanced backend and cloud deployment<br><br>💬 Ask me about React, Next.js, Tailwind CSS, and frontend best practices<br><br>🎉 Fun fact: I can turn coffee into beautiful UI designs! ☕✨
 
